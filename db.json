@@ -1,46 +1,9 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "first_name": "Darot",
-      "last_name": "Abdulrasaq",
-      "user_name": "darotudeen",
-      "email": "darot@email.com",
-      "password": "hash"
-    },
-    {
-      "firstName": "Abdulrasaq",
-      "lastName": "Durosomo",
-      "email": "darotudeen@gmail.com",
-      "password": "ff",
-      "password2": "ff",
-      "id": 7
-    }
-  ],
-  "cars": [
-    {
-      "maker": "Toyota",
-      "model": "Matrix",
-      "year": "2001",
-      "price": "2,000,000.00",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdlwPOIf4S9Kca-ldsXiiMmtjnsI75uXZAfd3dBWo51HMY6kGCHw",
-      "id": 5
-    },
-    {
-      "maker": "Toyota",
-      "model": "Corolla",
-      "year": "2122",
-      "price": "2222",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4lQOZ3LW3OG4qRd4Ewg1i5COHkwGqQ0N7qGUWViC8VKeCyiWx",
-      "id": 6
-    },
-    {
-      "maker": "Toyota",
-      "model": "Corolla",
-      "year": "2122",
-      "price": "2222",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJmcNYX9iaIiQ2Ly9UHhSBx1BOLlrpbDw13YwVQ0fXfvxWBUcX",
-      "id": 8
-    }
-  ]
-}
+    "posts":[
+      {
+        "id" : 0,
+        "title": "First post!",
+        "content" : "My first content!"
+      }
+    ]
+  }
